@@ -1,0 +1,21 @@
+.entete{
+	color: #9C1919;
+	padding-bottom: 7px;
+	float: right;
+	font-size: 25px;
+}
+
+h2{
+	color: green;
+	font-family: italic;
+	border-top: 1px solid black;
+	padding-top: 20px;
+}
+
+h3{
+	padding-left: 30px;
+}
+
+body{
+	font-family: calibri;
+}
